@@ -1,4 +1,13 @@
-  ## :computer: This is GitHub - API APP
+ 
+  <h1 align="center">GitHub - API APP</h1>
+  
+ 
+ <p align="center"> 
+  <img src="https://img.icons8.com/clouds/2x/github.png" />
+</p>
+
+
+ 
   ![app_github-2](https://user-images.githubusercontent.com/56616755/70948829-107ce000-203b-11ea-8d73-da20a50ee4ac.gif)
 
 
@@ -14,3 +23,12 @@ In the `main` page you can add a user `(by github nickname)` in your list. That 
 You can click in `view profile` and you'll see the user `favorite repositories`
 
 ![_FiaawzL](https://user-images.githubusercontent.com/56616755/70949816-9437cc00-203d-11ea-9a80-c1620be4b8d2.jpg)
+
+
+## :pencil2: Technologies Used
+
+* `React`
+* `Javascript`
+* `Npm`
+* `Yarn` 
+* `Babel`
