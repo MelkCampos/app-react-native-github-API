@@ -6,7 +6,7 @@
   <img src="https://img.icons8.com/clouds/2x/github.png" />
 </p>
 
-<p align="center" >________________________________ GITHUB - API APP _______________________________</p>
+<p align="center" >________________________________ <strong>GITHUB - API APP</strong> _______________________________</p>
 
 ![app_github-2](https://user-images.githubusercontent.com/56616755/70948829-107ce000-203b-11ea-8d73-da20a50ee4ac.gif)
 
