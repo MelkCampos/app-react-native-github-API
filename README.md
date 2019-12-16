@@ -5,14 +5,12 @@
 ## How it works?
 In the `main` page you can add a user `(by github nickname)` in your list. That user will be saved on the phone memony and you can acess it when you want.
 
-<p align="center">
-  <img src="https://lh3.googleusercontent.com/cn8dQx_SWNjSZi7rmDy0H3Bxf-48M1Ti_jo8w1PTok5pr8KU6FTDREXJKpDBFiqd5SX1KA=s170">
-</p>
+![-_1Q9B-R](https://user-images.githubusercontent.com/56616755/70949815-939f3580-203d-11ea-89a7-0d624e42204a.jpg)
+
+
 ## User Profile
 
 
 You can click in `view profile` and you'll see the user `favorite repositories`
 
-<p align="center">
-  <img width="375" height="435" src="https://lh3.googleusercontent.com/ShQeYsnJSyeMbzBLc7binbsakAeGHUTKLz68STN5D_zgmk7Xs1quIjo8MTJAIAK-z1zbfg=s85">
-</p> 
+![_FiaawzL](https://user-images.githubusercontent.com/56616755/70949816-9437cc00-203d-11ea-9a80-c1620be4b8d2.jpg)
