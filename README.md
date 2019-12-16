@@ -1,14 +1,14 @@
  
-  <h1 align="center">GitHub - API APP</h1>
+  
   
  
  <p align="center"> 
   <img src="https://img.icons8.com/clouds/2x/github.png" />
 </p>
 
+<p align="center" >________________________________ GITHUB - API APP _______________________________</p>
 
- 
-  ![app_github-2](https://user-images.githubusercontent.com/56616755/70948829-107ce000-203b-11ea-8d73-da20a50ee4ac.gif)
+![app_github-2](https://user-images.githubusercontent.com/56616755/70948829-107ce000-203b-11ea-8d73-da20a50ee4ac.gif)
 
 
 ## How it works?
