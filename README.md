@@ -29,6 +29,4 @@ You can click in `view profile` and you'll see the user `favorite repositories`
 
 * `React`
 * `Javascript`
-* `Npm`
 * `Yarn` 
-* `Babel`
